@@ -1,0 +1,3 @@
+/home/kristof/projects/P2PStream/build/CMakeFiles/main_executable.dir
+/home/kristof/projects/P2PStream/build/CMakeFiles/edit_cache.dir
+/home/kristof/projects/P2PStream/build/CMakeFiles/rebuild_cache.dir
