@@ -153,30 +153,6 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main_executable.dir/build.make CMakeFiles/main_executable.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
-src/server/server.o: src/server/server.cpp.o
-.PHONY : src/server/server.o
-
-# target to build an object file
-src/server/server.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main_executable.dir/build.make CMakeFiles/main_executable.dir/src/server/server.cpp.o
-.PHONY : src/server/server.cpp.o
-
-src/server/server.i: src/server/server.cpp.i
-.PHONY : src/server/server.i
-
-# target to preprocess a source file
-src/server/server.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main_executable.dir/build.make CMakeFiles/main_executable.dir/src/server/server.cpp.i
-.PHONY : src/server/server.cpp.i
-
-src/server/server.s: src/server/server.cpp.s
-.PHONY : src/server/server.s
-
-# target to generate assembly for a file
-src/server/server.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main_executable.dir/build.make CMakeFiles/main_executable.dir/src/server/server.cpp.s
-.PHONY : src/server/server.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -189,9 +165,6 @@ help:
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
-	@echo "... src/server/server.o"
-	@echo "... src/server/server.i"
-	@echo "... src/server/server.s"
 .PHONY : help
 
 

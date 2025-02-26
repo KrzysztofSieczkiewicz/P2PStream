@@ -15,6 +15,6 @@ FetchContent_MakeAvailable(asio)
 
 message(STATUS "asio_SOURCE_DIR: ${asio_SOURCE_DIR}")
 
-add_executable(main_executable src/main.cpp src/server/server.cpp)
+add_executable(main_executable src/main.cpp)
 
 target_include_directories(main_executable PRIVATE ${asio_SOURCE_DIR}/asio/include)

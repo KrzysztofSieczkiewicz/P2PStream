@@ -9,7 +9,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/kristof/projects/P2PStream/src/main.cpp" "CMakeFiles/main_executable.dir/src/main.cpp.o" "gcc" "CMakeFiles/main_executable.dir/src/main.cpp.o.d"
-  "/home/kristof/projects/P2PStream/src/server/server.cpp" "CMakeFiles/main_executable.dir/src/server/server.cpp.o" "gcc" "CMakeFiles/main_executable.dir/src/server/server.cpp.o.d"
   "" "main_executable" "gcc" "CMakeFiles/main_executable.dir/link.d"
   )
 

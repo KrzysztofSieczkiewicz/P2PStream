@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kristof/projects/P2PStream/build",
+  "command": "/usr/bin/c++  -I/home/kristof/projects/P2PStream/build/_deps/asio-src/asio/include  -o CMakeFiles/main_executable.dir/src/main.cpp.o -c /home/kristof/projects/P2PStream/src/main.cpp",
+  "file": "/home/kristof/projects/P2PStream/src/main.cpp",
+  "output": "CMakeFiles/main_executable.dir/src/main.cpp.o"
+}
+]
